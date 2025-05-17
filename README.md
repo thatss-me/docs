@@ -1,2 +1,2 @@
-# docs
-the official documentation for thatss.me and thisis.us
+# documentation
+[see our documentation here](https://github.com/thatss-me/docs)
