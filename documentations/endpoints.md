@@ -1,6 +1,6 @@
 # Check username
 **Endpoint**
-`/ajax/checkusername?username=`
+- `/ajax/checkusername?username=`
 
 **Return**
 - Avaible: Status 200
@@ -8,7 +8,7 @@
 
 # Check mail
 **Endpoint**
-`/ajax/checkemail?email=`
+- `/ajax/checkemail?email=`
 
 **Return**
 - Avaible: Status 200
@@ -16,7 +16,7 @@
 
 # Create Account
 **Endpoint**
-`/createNewAccount?email=&username=`
+- `/createNewAccount?email=&username=`
 
 **Return**
 - Status, Message 
