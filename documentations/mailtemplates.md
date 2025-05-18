@@ -1,0 +1,2 @@
+# mailtemplates
+- welcome-waitlist
