@@ -1,5 +1,5 @@
 # Endpoint
-`https://thatss.me/realtime/check?type=username&value=`
+`https://thatss.me/realtime/check?type=email&value=`
 
 # Return
 ✅ Available: `200`  
