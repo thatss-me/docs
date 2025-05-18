@@ -4,7 +4,7 @@
 # Return
 ✅ Available: `200`  
 ❌ Unavailable: `400`  
-Error: `500`
+⚠️ Error: `500`
 
 # Return/json
 ```

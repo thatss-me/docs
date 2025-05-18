@@ -1,5 +1,4 @@
 # types
-
 - info
 - error
 - warn

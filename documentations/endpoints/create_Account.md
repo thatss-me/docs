@@ -7,5 +7,8 @@
 
 # Return/json
 ```
-
+{
+    "status": int,
+    "message": "string"
+}
 ```

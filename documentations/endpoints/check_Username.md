@@ -2,9 +2,9 @@
 `https://thatss.me/realtime/check?type=email&value=`
 
 # Return
-✅ Avaible: `200`
-❌ Unavaible: `400`
-Error: `500`
+✅ Available: `200`  
+❌ Unavailable: `400`  
+⚠️ Error: `500`
 
 # Return/json
 ```
