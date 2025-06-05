@@ -21,6 +21,6 @@
 ## Server errors
 - `500`: **Internal Server Error** - Allgemeiner Serverfehler
 - `501`: **Not Implemented** - Funktionalität noch nicht verfügbar
-- `502`: **Bad Gateway	Fehlerhafte Antwort vom Upstream-Server
+- `502`: **Bad Gateway** - Fehlerhafte Antwort vom Upstream-Server
 - `503`: **Service Unavailable** - API (temporär) nicht verfügbar
 - `504`: **Gateway Timeout** - Timeout beim Upstream-Request
